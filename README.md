@@ -22,8 +22,6 @@
 
 <a href="Screenshot_2022-02-06-20-39-39-62_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696501-1823434f-ad85-4c02-bcd6-e23b8bd06ebc.jpg" align="right" height="600" width="330" ></a>
 
-<a href="Screenshot_2022-02-06-20-39-39-62_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696501-1823434f-ad85-4c02-bcd6-e23b8bd06ebc.jpg" align="left" height="600" width="330" ></a>
-
 
 
 
