@@ -2,6 +2,9 @@
 
 <a href="Screenshot_2022-02-06-20-38-05-90_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696418-c237204a-aa05-48a2-b660-40dc45af576f.jpg" align="left" height="600" width="330" ></a>
 
+
+<a href="Screenshot_2022-02-06-20-41-21-21_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696503-3f9ba877-815c-4621-ab2b-480c9f275ded.jpg" align="right" height="600" width="330" ></a>
+
 <a href="Screenshot_2022-02-06-20-38-15-21_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696431-f08a03de-34de-49d3-88e5-984835ee6775.jpg" align="right" height="600" width="330" ></a>
 
 <a href="Screenshot_2022-02-06-20-38-31-13_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696443-1fd47745-c904-4570-babd-575c7f64335c.jpg" align="left" height="600" width="330" ></a>
@@ -20,9 +23,6 @@
 <a href="Screenshot_2022-02-06-20-39-39-62_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696501-1823434f-ad85-4c02-bcd6-e23b8bd06ebc.jpg" align="right" height="600" width="330" ></a>
 
 <a href="Screenshot_2022-02-06-20-39-39-62_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696501-1823434f-ad85-4c02-bcd6-e23b8bd06ebc.jpg" align="left" height="600" width="330" ></a>
-
-
-<a href="Screenshot_2022-02-06-20-41-21-21_ccaf7948ea20f7cfe4a509f9181c519e"><img src="https://user-images.githubusercontent.com/94074275/152696503-3f9ba877-815c-4621-ab2b-480c9f275ded.jpg" align="right" height="600" width="330" ></a>
 
 
 
